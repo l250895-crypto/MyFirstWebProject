@@ -9,6 +9,7 @@
     margin-left: 10px;
     margin-right: 10px;
     width: 800px;
+    height: 1200px;
     background-color: white;
     padding: 20px;
     border: 1px solid lightgray;
@@ -21,7 +22,7 @@
     margin-bottom: 20px;
     margin-left: 10px;
     margin-right: 10px;
-    width: 800px ;
+    width: 830px ;
     background-color: aquamarine;
     text-align: right;
     padding: 1em;
@@ -36,7 +37,7 @@
     float: left; 
     width: 200px;
     background-color: aquamarine; 
-    border: 2px solid teal; 
+    border: 5px solid teal; 
     padding: 15px;
     
 }
@@ -49,6 +50,7 @@
     margin-right: 10px;
     float: left; 
     width: 600px; 
+    height: 800x;
     background-color: lightblue;
     
 }
@@ -61,7 +63,6 @@
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
     border: 2px solid teal; 
-    
 }
 
 

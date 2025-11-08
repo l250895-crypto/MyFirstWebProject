@@ -2,14 +2,15 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color:aliceblue;
+    background-color:grey;
 }
 
 #header {
     background-color: aquamarine;
     text-align: right;
     border-color: white;
-    border-width: 1em;
+    border-width: 4em;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 
